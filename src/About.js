@@ -1,5 +1,5 @@
 import React from 'react'
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import { Tab, Tabs,  TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import ProgressBar from "@ramonak/react-progress-bar";
 import { Link } from 'react-router-dom';

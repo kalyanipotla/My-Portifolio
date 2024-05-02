@@ -31,7 +31,7 @@ const Contact = () => {
     <>
      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-10 mx-10 md:mx-20 lg:mx-32 mt-5 md:mt-5 lg:mt-4 sm:mt-3">
         <div>
-          <img src={contact} alt="image " className=' mt-5'/>
+        <img src={contact} alt="Contact" className="mt-5" />
           <br/><br/>
           <h1 className='text-2xl  text-[#ff0080] text-xl font-semibold'>Contact Details</h1><hr className='w-1/3'></hr>
           <p className='relative mt-5'>
